@@ -1,0 +1,23 @@
+According to TOS of nbp.pl (available here: https://nbp.pl/o-nbp/kontakt/regulaminy/),
+more precisely sections 1.6,  1.7  and  5.1 (as of 12.05.2026):
+	
+	1.6 NBP nie zgłasza zastrzeżeń do zapisywania plików, kopiowania stron w całości
+lub części oraz dokonywania wydruków do użytku osobistego lub służbowego
+pod warunkiem, że nie służą one celom komercyjnym.
+	1.7 NBP nie zgłasza zastrzeżeń do tworzenia połączeń za pośrednictwem
+odnośników ze stroną internetową NBP, pod warunkiem wskazania źródła
+pochodzenia materiału oraz nie wprowadzania do treści materiału zmian czy
+zniekształceń. W przypadku zamieszczania linków do stron Narodowego
+Banku Polskiego serwis internetowy NBP powinien być udostępniony w
+oddzielnym oknie. 
+	5.1 Nadmierne, nieuzasadnione obciążanie zasobów Serwisu, spowodowane np.
+automatycznym pobieraniem treści, może w szczególnych przypadkach zostać
+potraktowane jako atak typu DoS (denial of service) i skutkować czasową
+blokadą IP klienta pobierającego dane. 
+
+
+NBP  does  not  make  any  reservations  toward  automatic  file  saving,  or 
+copying  site  content  for  personal  or  professional  use  given  that  the  data  is  not  used  to  seek 
+commercial gains and excess use of service resembles DOS attack. Thus it presents itself
+as legal to scrape as long as automatic file saving doesn't result in an excess use of webpage's resources,
+a condition that can be fullfiled via code implementation.
